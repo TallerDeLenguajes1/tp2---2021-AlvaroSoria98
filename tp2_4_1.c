@@ -6,3 +6,7 @@ typedef struct PC
 	cantNucleos;
 	char tipoProcesador;
 }PC;
+
+int main (){
+	return 0;
+}
